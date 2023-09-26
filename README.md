@@ -1,7 +1,7 @@
 Hi there,I'm Prapti Chavan👋
 
 
-<img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/prapti3/prapti3/assets/71283167/e7b62001-d243-40e2-9bf9-b2c8c9d48745">
+<img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/prapti3/prapti3/blob/main/banner.jpg">
 
 
 

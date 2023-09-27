@@ -14,7 +14,7 @@ Hi there,I'm Prapti Chavan👋
 - 👩‍🎨 Fun fact: I am Professional Artist 
 
 
-(<hr>)
+<hr>
 
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)

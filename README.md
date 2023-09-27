@@ -6,17 +6,41 @@
 Hi there, I'm <a href="https://profile-129b7.web.app/" target="_blank" rel="noreferrer"><span color="Pink"> Prapti</span></a> 👋
 </h3>
 
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, UI\UX Designer 🎨 and Artist 🖌️ !
+</h2> 
+
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+
+
 
 - 🔭 I’m honing my DSA and Dev Skills.
 - 🌱 I’m currently learning Java/Spring.
 - 👯 I’m looking to collaborate on Web dev projects.
 - 🤔 I’m looking for help with my Backend skills.
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: prapti.chavan3@gmail.com
+- 📫 How to reach me: 💌prapti.chavan3@gmail.com
 - 👩‍🎨 Fun fact: I am Professional Artist 
 
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/prapti-chavan-003/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Prapti Chavan | LinkedIn" width="21px"/></a>
+
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 <hr>
+
+
+## 🔭 I'm currently working on
+
+- My old projects
+- Restaurant Recommendation App (React.js)
+- AmazonClone Web (Working on it soon...)
+- My next blog
+- My DSA skill
+
 <br>
 
 ## 💼 Technical Skills

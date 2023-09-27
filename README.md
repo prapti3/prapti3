@@ -3,7 +3,7 @@ Hi there,I'm Prapti Chavan👋
 
 <img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/prapti3/prapti3/blob/main/banner.jpg">
 
-(----)
+(_______)
 
 - 🔭 I’m honing my DSA and Dev Skills.
 - 🌱 I’m currently learning Java/Spring.

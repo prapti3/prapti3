@@ -89,6 +89,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 
-[![Prapti’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/prapti3)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/prapti3)
+[![Prapti’s github stats](https://github-readme-stats.vercel.app/api?username=prapti3)](https://github.com/prapti3)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&layout=compact)](https://github.com/prapti3)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prapti3&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)

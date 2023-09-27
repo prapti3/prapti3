@@ -22,12 +22,11 @@ I love the entire process of developing creative websites. I love the challenge 
 - 👩‍🎨 Fun fact: I am Professional Artist 
 
 
-### 🤝 Connect with me:
+### 🤝 Connect with me::
 
 <a href="https://www.linkedin.com/in/prapti-chavan-003/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Prapti Chavan | LinkedIn" width="21px"/></a>
 
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+ If you have any question/feedback, please do not hesitate to reach out to me!
 
 <hr>
 
@@ -88,12 +87,16 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
+
+<br>
 <hr>
 
-'''
+
 [![Prapti’s github stats](https://github-readme-stats.vercel.app/api?username=prapti3)](https://github.com/prapti3)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&layout=compact)](https://github.com/prapti3)
 <br>
-'''
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prapti3&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+

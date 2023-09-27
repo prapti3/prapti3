@@ -19,7 +19,9 @@
 
 <br>
 
-#I work on 
+<span style="color:green;font-weight:700;font-size:20px">
+    🔭 I’m currently working on
+</span>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

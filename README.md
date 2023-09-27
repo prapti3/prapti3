@@ -1,5 +1,5 @@
 
-<img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/prapti3/prapti3/blob/main/****">
+<img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/prapti3/prapti3/blob/main/banner.png">
 
 
 <h2 align="center" font-family="">

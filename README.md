@@ -88,10 +88,12 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
+<hr>
 
-
+'''
 [![Prapti’s github stats](https://github-readme-stats.vercel.app/api?username=prapti3)](https://github.com/prapti3)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&layout=compact)](https://github.com/prapti3)
 <br>
+'''
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prapti3&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)

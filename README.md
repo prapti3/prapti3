@@ -16,6 +16,9 @@ Hi there,I'm Prapti Chavan👋
 
 
 
-<kbd> <br> [Linkdin][Link] <br> </kbd>
-[Link]: https://www.linkedin.com/in/prapti-chavan-003/
+<kbd> <br> [Linkdin][https://www.linkedin.com/in/prapti-chavan-003/] <br> </kbd>
+
+<br>
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prapti3&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)

@@ -5,13 +5,16 @@
 <h2 align="center" font-family="">
 Hi there, I'm <a href="https://profile-129b7.web.app/" target="_blank" rel="noreferrer"><span color="Pink"> Prapti</span></a> 👋
 </h2>
+
+<br>
+
 <h4 align="center">
 I'm a Full-Stack Web Developer 💻, UI\UX Designer 🎨 and Artist 🖌️ !
 </h4> 
 
+<p align="center>
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-
-
+</p>
 
 - 🔭 I’m honing my DSA and Dev Skills.
 - 🌱 I’m currently learning Java/Spring.

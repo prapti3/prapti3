@@ -99,6 +99,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&layout=compact)](https://github.com/prapti3)
 <br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prapti3&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=prapti3&theme=onedark&hide_border=true)](https://git.io/streak-stats)

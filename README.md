@@ -14,6 +14,8 @@ Hi there,I'm Prapti Chavan👋
 - 👩‍🎨 Fun fact: I am Professional Artist 
 
 
+('<hr>')
+
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -22,6 +24,6 @@ Hi there,I'm Prapti Chavan👋
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-(<br>)
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prapti3&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)

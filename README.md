@@ -2,13 +2,13 @@
 <img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/prapti3/prapti3/blob/main/banner.jpg">
 
 
-<h3 align="center">
+<h2 align="center" font-family="">
 Hi there, I'm <a href="https://profile-129b7.web.app/" target="_blank" rel="noreferrer"><span color="Pink"> Prapti</span></a> 👋
-</h3>
+</h2>
 
-<h2 align="center">
+<h4 align="center">
 I'm a Full-Stack Web Developer 💻, UI\UX Designer 🎨 and Artist 🖌️ !
-</h2> 
+</h4> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
@@ -95,4 +95,6 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
+
+![Prapti's GitHub stats]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prapti3&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)

@@ -1,9 +1,10 @@
- Hi there,I'm Prapti Chavan👋
-<br
-<br>
 
 <img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/prapti3/prapti3/blob/main/banner.jpg">
 
+
+<h3 align="center">
+Hi there, I'm <a href="https://profile-129b7.web.app/" target="_blank" rel="noreferrer"><span color="Pink"> Prapti</span></a> 👋
+</h3>
 
 
 - 🔭 I’m honing my DSA and Dev Skills.
@@ -16,12 +17,10 @@
 
 
 <hr>
-
 <br>
 
-<span style="color:green;font-weight:700;font-size:40px">
-    🔭 I’m currently working on
-</span>
+## 💼 Technical Skills
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

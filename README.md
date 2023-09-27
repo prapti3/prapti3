@@ -5,7 +5,7 @@
 <h2 align="center" font-family="">
 Hi there, I'm <a href="https://profile-129b7.web.app/" target="_blank" rel="noreferrer"><span color="Pink"> Prapti</span></a> 👋
 </h2>
-<h4 align="center" color="white">
+<h4 align="center">
 I'm a Full-Stack Web Developer 💻, UI\UX Designer 🎨 and Artist 🖌️ !
 </h4> 
 
@@ -95,5 +95,5 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 
-![Prapti's GitHub stats]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prapti3&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)

@@ -44,7 +44,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 💼 Technical Skills
 
-
+<br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,react,nodejs,js,html,css,bootstrap,sass,tailwind)](https://skillicons.dev)
 
 
@@ -88,5 +89,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 
-![Prapti's GitHub stats]()
+[![Prapti’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/prapti3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/prapti3)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prapti3&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)

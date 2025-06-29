@@ -2,7 +2,6 @@
 
 <h1 align="center">✋ Hi, I am Prapti !!!</h1>
 
----
 
 <h2 align="center">
 🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 💻

@@ -4,9 +4,9 @@
 
 ---
 
-<h1 align="center">
+<h2 align="center">
 🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 💻
-</h1>
+</h2>
 
 
 ### 👩‍💻 About Me

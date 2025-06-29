@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://profile-129b7.web.app/" target="_blank">Prapti</a
 </h2>
 
 <h4 align="center">
-🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer | Software Quality Advocate
+🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 
 </h4>
 
 ---

@@ -4,7 +4,6 @@
 🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 💻
 </h1>
 
----
 
 ### 👩‍💻 About Me
 

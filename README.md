@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/prapti3/prapti3/blob/main/Github.png" alt="banner" />
 
-<h1 aligh="center">✋ Hi, I am Prapti !!!</h1>
+<h1 align="center">✋ Hi, I am Prapti !!!</h1>
 
 ---
 

@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/prapti3/prapti3/blob/main/banner.png" alt="banner" />
+<img width="100%" src="[https://github.com/prapti3/prapti3/blob/main/banner.png](https://github.com/prapti3/prapti3/blob/main/Github.png?raw=true)" alt="banner" />
 
 <h4 align="center">
 🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 💻

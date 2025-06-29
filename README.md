@@ -1,11 +1,7 @@
 <img width="100%" src="https://github.com/prapti3/prapti3/blob/main/banner.png" alt="banner" />
 
-<h2 align="center">
-Hi there, I'm <a href="https://profile-129b7.web.app/" target="_blank">Prapti</a> 👋
-</h2>
-
 <h4 align="center">
-🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 
+🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 💻
 </h4>
 
 ---

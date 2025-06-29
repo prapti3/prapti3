@@ -1,5 +1,9 @@
 <img width="100%" src="https://github.com/prapti3/prapti3/blob/main/Github.png" alt="banner" />
 
+✋ Hi, I am Prapti !!!
+
+---
+
 <h1 align="center">
 🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 💻
 </h1>

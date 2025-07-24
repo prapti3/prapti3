@@ -59,7 +59,7 @@ My background as a **Full Stack Developer** (MERN) enables me to understand code
 
 ![Prapti’s github stats](https://github-readme-stats.vercel.app/api?username=prapti3&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=prapti3&theme=dark)
+![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=prapti3&theme=dark)](https://git.io/streak-stats))
 
 ---
 

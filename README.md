@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prapti Chavan</h1>
-<h3 align="center">Automation Test Engineer | Passionate about building clean, scalable, and efficient test solutions</h3>
+<h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" />  Automation Test Engineer | Passionate about building clean, scalable, and efficient test solutions</h3>
 
 ---
 

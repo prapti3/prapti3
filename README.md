@@ -5,15 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" />  Achievements 
 ![trophy](https://github-profile-trophy.vercel.app/?username=prapti3&theme=onedark)
 
-
-- 🔍 Experienced in SAP, Web, and API automation using Tosca
-- 🧪 Proficient in API testing with Postman
-- 🔁 Learning Java, Selenium
-- 🌐 Built full-stack web apps using React.js and Node.js
-- 📈 Working in Agile and DevOps teams
-- 🎓 Certified Tosca Automation Specialist (AS1 & AS2)
-
-  ---
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" />  About Me
 

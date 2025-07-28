@@ -4,7 +4,7 @@
 
 
 <h4 align="center">
-🚀 Tosca Automation Tester (3+ Years) | Full Stack Developer 💻
+🚀 Tosca Automation Tester (3+ Years)
 </4>
 
 
@@ -12,14 +12,13 @@
 
 I’m a passionate and detail-driven **Tosca Automation Tester** with **3+ years** of experience in automating **SAP GUI, Web**, and **REST API** flows using **Tricentis Tosca**.
 
-My background as a **Full Stack Developer** (MERN) enables me to understand code structures deeply, and write meaningful test scenarios that cover both business logic and edge cases.
 
 - 🔍 Experienced in SAP, Web, and API automation using Tosca
 - 🧪 Proficient in API testing with Postman
-- 🔁 Strong in Java, Jenkins, and Selenium
+- 🔁 Learning Java, Selenium
 - 🌐 Built full-stack web apps using React.js and Node.js
 - 📈 Working in Agile and DevOps teams
-- 🎓 Certified Tosca Automation Specialist
+- 🎓 Certified Tosca Automation Specialist (AS1 & AS2)
 
 ---
 
@@ -27,8 +26,8 @@ My background as a **Full Stack Developer** (MERN) enables me to understand code
 
 - Tosca test case design documentation (GitHub project)
 - Postman API automation suite
-- Revising my MERN full-stack projects
 - Interview preparation for SDET roles
+- Chatgpt, Gemini, Perplexity, Claud
 
 ---
 

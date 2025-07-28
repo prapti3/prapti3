@@ -2,9 +2,9 @@
 <h1 align="center"> Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />  !!!</h1>
 
 
-<h4 align="center">
-🚀 Tosca Automation Tester (3+ Years)
-</4>
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />  Tosca Automation Tester (3+ Years) 
+</h2>
 
 
 ### 👩‍💻 About Me

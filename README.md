@@ -2,12 +2,8 @@
 <h1 align="center"> Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />  !!!</h1>
 
 
-<h2 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />  Tosca Automation Tester (3+ Years) 
-</h2>
 
-
-### 👩‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /> About Me
 
 
 I’m a passionate and detail-driven **Tosca Automation Tester** with **3+ years** of experience in automating **SAP GUI, Web**, and **REST API** flows using **Tricentis Tosca**.

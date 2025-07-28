@@ -25,6 +25,8 @@
 
 ### 💻 Technical Skills
 
+[Github](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
+
 
 #### 🧪 Testing & QA
 ![Tosca](https://img.shields.io/badge/Tosca-Automation-blue?style=for-the-badge)

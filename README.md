@@ -48,7 +48,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prapti3&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&hide_progress=true)
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&hide_progress=true)
+</p>
 
 ---
 

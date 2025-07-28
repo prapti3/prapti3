@@ -13,7 +13,7 @@
   - **Material UI, Firebase, RapidAPI**  
 - 💡 Exploring: **Full-stack Development & UI Testing**
 - 👯 I’m open to collaboration on **automation projects, learning groups, or content creation**
-- 📫 Reach me: **praptichavan3@gmail.com**
+- 📫 Reach me: **prapti.chavan3@gmail.com**
 
 ---
 

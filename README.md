@@ -1,5 +1,5 @@
 
-<h2 align="center">✋ Hi, I am Prapti !!!</h2>
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />  !!!</h1>
 
 
 <h4 align="center">
@@ -9,8 +9,18 @@
 
 ### 👩‍💻 About Me
 
+
 I’m a passionate and detail-driven **Tosca Automation Tester** with **3+ years** of experience in automating **SAP GUI, Web**, and **REST API** flows using **Tricentis Tosca**.
 
+
+### 💼 I'm currently working on
+
+- Tosca test case design documentation (GitHub project)
+- API automation suite
+- Interview preparation for SDET roles
+- Chatgpt, Gemini, Perplexity, Claud
+
+---
 
 - 🔍 Experienced in SAP, Web, and API automation using Tosca
 - 🧪 Proficient in API testing with Postman
@@ -18,23 +28,16 @@ I’m a passionate and detail-driven **Tosca Automation Tester** with **3+ years
 - 🌐 Built full-stack web apps using React.js and Node.js
 - 📈 Working in Agile and DevOps teams
 - 🎓 Certified Tosca Automation Specialist (AS1 & AS2)
-
----
-
-### 💼 I'm currently working on
-
-- Tosca test case design documentation (GitHub project)
-- Postman API automation suite
-- Interview preparation for SDET roles
-- Chatgpt, Gemini, Perplexity, Claud
-
+  
 ---
 
 ### 💻 Technical Skills
 
+
 #### 🧪 Testing & QA
 ![Tosca](https://img.shields.io/badge/Tosca-Automation-blue?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

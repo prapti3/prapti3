@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prapti Chavan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />, I'm Prapti Chavan</h1>
 <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" />  Automation Test Engineer | Passionate about building clean, scalable, and efficient test solutions</h3>
 
 ---

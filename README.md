@@ -33,10 +33,8 @@
 
 ### 📚 Current Learning Journey
 
-- 🧠 **Automation Mastery** — Tosca Advanced, Test Events, Recovery Scenarios  
-- 🛠️ **Git Mastery** — Branching, conflict resolution, collaboration  
-- 🌐 **Web Dev Tools** — Firebase, MUI, RapidAPI  
-- 📦 **End-to-End Projects** — Full stack MERN apps with automation test layers
+- 🧠 **Automation Mastery** : Tosca Advanced, Test Events, Recovery Scenarios  
+- 🛠️ **Git Mastery** : Branching, conflict resolution, collaboration  
 
 ---
 

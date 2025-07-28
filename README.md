@@ -35,9 +35,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" />  Featured Projects
 
- 🔹 [**Tosca-SAP-Web-Demo**](https://github.com/prapti3/tosca-sap-web-demo) – Tosca automation docs, test case flows, screenshots
- 🔹 [**Postman-API-Automation**](https://github.com/prapti3/postman-api-automation) – Login/Signup API testing with validation scripts
-🔹 [**MERN Task Tracker**](https://github.com/prapti3/mern-task-tracker) – Full stack CRUD app with auth
+- [**Tosca-SAP-Web-Demo**](https://github.com/prapti3/tosca-sap-web-demo) – Tosca automation docs, test case flows, screenshots
+- [**Postman-API-Automation**](https://github.com/prapti3/postman-api-automation) – Login/Signup API testing with validation scripts
+- [**MERN Task Tracker**](https://github.com/prapti3/mern-task-tracker) – Full stack CRUD app with auth
 
 ---
 

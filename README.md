@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />  !!!</h1>
 
 
-## Achievements 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Partying%20Face.webp" alt="Partying Face" width="25" height="25" />  Achievements 
 ![trophy](https://github-profile-trophy.vercel.app/?username=prapti3&theme=onedark)
 
 

@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&hide_progress=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </p>
 
 ---

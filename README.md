@@ -48,10 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prapti3&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-</p>
-
 ---
 
 ### 🔗 Let's Connect

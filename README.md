@@ -17,7 +17,7 @@
 - 🧠 Exploring: Generative AI 
 - 👯 Looking to collaborate on: **Tosca learning content, interview preparation**
 - 💬 Ask me about: Tosca, Jenkins, API Testing, SAP GUI, Git
-- 📫 Reach me at: **praptichavan3@gmail.com**
+- 📫 Reach me at: **prapti.chavan3@gmail.com**
 
 
 ---

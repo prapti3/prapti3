@@ -49,6 +49,8 @@
 ### 📈 GitHub Stats
 
 ![Prapti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prapti3&theme=aura&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prapti3&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prapti3&theme=tokyonight&hide_border=true)
   
 
 ---

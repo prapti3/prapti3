@@ -1,11 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> there   </h1>
 
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="Coding Animation">
-</p>
-
 <br>
 
 ## 👩‍💻 About Me

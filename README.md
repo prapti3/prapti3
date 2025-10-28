@@ -27,7 +27,6 @@
 <h2>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Tosca-0175C2?style=flat&logo=tricentis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
@@ -44,8 +43,6 @@
 
 ### 📈 GitHub Stats
 
-![Prapti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 ![Prapti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prapti3&theme=aura&show_icons=true)
   
 
@@ -53,50 +50,14 @@
 
 ### 🔗 Let's Connect
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prapti-chavan)
+  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
 <p>
+
   <a href="mailto:praptichavan3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/prapti-chavan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/prapti3"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 - 📫 Reach me at: **prapti.chavan3@gmail.com**
-
-
----
-
-### 🛠️ Technologies & Tools
-
-<h2>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tosca-0175C2?style=flat&logo=tricentis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</h2>
-
-
-
-### 📚 Current Learning Journey
-
-- 🧠 **Automation Mastery** : Tosca Advanced, Test Events, Recovery Scenarios  
-- 🛠️ **Git Mastery** : Branching, conflict resolution, collaboration  
-
----
-
-### 📈 GitHub Stats
-
-
-  ![Prapti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prapti3&theme=aura&show_icons=true)
-  
-
----
-
-### 🔗 Let's Connect
-
-<p>
-  <a href="mailto:praptichavan3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/prapti-chavan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/prapti3"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-</p>

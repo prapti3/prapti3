@@ -26,7 +26,6 @@
 
 <h2>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Tosca-0175C2?style=flat&logo=tricentis&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -45,8 +44,9 @@
 
 ### 📈 GitHub Stats
 
-
-  ![Prapti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prapti3&theme=aura&show_icons=true)
+![Prapti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Prapti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prapti3&theme=aura&show_icons=true)
   
 
 ---

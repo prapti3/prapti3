@@ -12,7 +12,7 @@
 ## 👩‍💻 About Me
 
 
-- 🎓 I'm a **Computer Engineer** with a strong interest in **Java** and **Full-Stack Development**.  
+- 🎓 I'm a **Computer Engineer** with a strong interest in **Java** and **Full-Stack Development**
 - 💡 I enjoy designing and developing user-friendly, scalable web applications.  
 - 🌱 Currently exploring **Spring Boot**, **React**, and **RESTful APIs**.  
 - ⚙️ I’m also improving my knowledge in **database design** and **system architecture**.  

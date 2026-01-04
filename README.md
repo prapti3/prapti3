@@ -16,7 +16,7 @@
 - 💡 I enjoy designing and developing user-friendly, scalable web applications.  
 - 🌱 Currently exploring **Spring Boot**, **React**, and **RESTful APIs**.  
 - ⚙️ I’m also improving my knowledge in **database design** and **system architecture**.  
-- 🤝 I love collaborating on open-source projects and learning from the developer community.
+- 🤝 I love collaborating on open-source projects and learning from the developer community
 - 📫 Reach me at: **prapti.chavan3@gmail.com**
 
 
